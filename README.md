@@ -4,6 +4,8 @@ TechMart is a high-performance, full-stack e-commerce web application engineered
 
 Designed with robust **Object-Oriented Analysis and Design (OOAD)** principles, stateless API interfaces, and defensive security measures, this codebase serves as a reference implementation for scalable, payment-centric software engineering.
 
+🚀 **Live Access / Production Demo**: [techmart-weld.vercel.app](https://techmart-weld.vercel.app/)
+
 ---
 
 ## 🏗️ System Architecture & OOAD Design
